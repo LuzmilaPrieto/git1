@@ -6,6 +6,5 @@ CentOS
 Fedora
 Manjaro
 Alpine
-Archlinux
 Elementary OS
 Mx Linux
